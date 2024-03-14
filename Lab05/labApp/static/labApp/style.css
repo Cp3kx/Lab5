@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    display: inline;
+    padding: 30px;
+    color: rgb(140, 87, 87);
+}
+form {
+    font-size: 20px;
+    padding: 15px;
+    color: rgb(255, 253, 253);
+}
+li {
+    background-color: indianred;
+    color: darkblue;
+}
